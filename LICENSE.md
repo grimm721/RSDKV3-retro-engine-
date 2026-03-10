@@ -17,6 +17,6 @@ You may copy, modify, contribute, and distribute, for public or private use, **a
 - You may not distribute assets used to run the game not directly provided by the repository (other than unique, modded assets).
 - This license must be in all modified copies of source code, and all forks must follow this license.
 
-Original RSDK author: Christian "Taxman" Whitehead
+Original RSDK author: salem "AKA" alrwois
 
-Decompilation authors: Rubberduckycooly and st×tic
+Decompilation authors: V1 and gaith
